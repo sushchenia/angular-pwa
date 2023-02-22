@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "start-pwa": "ng build && http-server -p 8080 -c-1 docs"
+    "start-pwa": "ng build && http-server -p 8090 -c-1 docs"
   },
   "private": true,
   "dependencies": {
